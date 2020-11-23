@@ -1,12 +1,11 @@
 // IF block: 13,18,28 CASE block: 2,7,11
 // Логинов Егор Игоревич НФИбд-01-20
 #include <iostream>
-#include <cmath>
 using namespace std;
 
 int main(){
     char side;
-    int N1, N2, direction=0;
+    int N1, N2;
     cout << "Enter locator orientation and two commands: \n";
     cin >> side;
     cin >> N1 >> N2;
