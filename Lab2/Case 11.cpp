@@ -21,10 +21,10 @@ int main(){
                 case 4:
                     cout << "Current direction: " << "N";
                     break;
-                case 1:
+                case 3:
                     cout << "Current direction: " << "E";
                     break;
-                case 3:
+                case 1:
                     cout << "Current direction: " << "W";
                     break;
                 
@@ -40,10 +40,10 @@ int main(){
                 case 4:
                     cout << "Current direction: " << "E";
                     break;
-                case 1:
+                case 3:
                     cout << "Current direction: " << "S";
                     break;
-                case 3:
+                case 1:
                     cout << "Current direction: " << "N";
                     break;
                 
@@ -59,10 +59,10 @@ int main(){
                 case 4:
                     cout << "Current direction: " << "S";
                     break;
-                case 1:
+                case 3:
                     cout << "Current direction: " << "W";
                     break;
-                case 3:
+                case 1:
                     cout << "Current direction: " << "E";
                     break;
                 
@@ -78,10 +78,10 @@ int main(){
                 case 4:
                     cout << "Current direction: " << "W";
                     break;
-                case 1:
+                case 3:
                     cout << "Current direction: " << "N";
                     break;
-                case 3:
+                case 1:
                     cout << "Current direction: " << "S";
                     break;
                 
